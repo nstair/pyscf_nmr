@@ -1,0 +1,112 @@
+[
+  {
+    "index": 0,
+    "symbol": "C",
+    "iso_shielding": -79.9297014175564
+  },
+  {
+    "index": 1,
+    "symbol": "C",
+    "iso_shielding": -154.99012401516222
+  },
+  {
+    "index": 2,
+    "symbol": "C",
+    "iso_shielding": -470.021237255072
+  },
+  {
+    "index": 3,
+    "symbol": "C",
+    "iso_shielding": 47.4721033388229
+  },
+  {
+    "index": 4,
+    "symbol": "C",
+    "iso_shielding": 74.48523117042036
+  },
+  {
+    "index": 5,
+    "symbol": "C",
+    "iso_shielding": -326.1985718548815
+  },
+  {
+    "index": 6,
+    "symbol": "C",
+    "iso_shielding": -245.936864491506
+  },
+  {
+    "index": 7,
+    "symbol": "C",
+    "iso_shielding": -207.73831742163296
+  },
+  {
+    "index": 8,
+    "symbol": "O",
+    "iso_shielding": -3559.3704785400114
+  },
+  {
+    "index": 9,
+    "symbol": "O",
+    "iso_shielding": 220.0319018422501
+  },
+  {
+    "index": 10,
+    "symbol": "H",
+    "iso_shielding": 20.867732634085645
+  },
+  {
+    "index": 11,
+    "symbol": "H",
+    "iso_shielding": 22.280238353484588
+  },
+  {
+    "index": 12,
+    "symbol": "H",
+    "iso_shielding": 16.011597710926754
+  },
+  {
+    "index": 13,
+    "symbol": "H",
+    "iso_shielding": 11.569790528603493
+  },
+  {
+    "index": 14,
+    "symbol": "H",
+    "iso_shielding": 12.379267712671187
+  },
+  {
+    "index": 15,
+    "symbol": "H",
+    "iso_shielding": 23.067787347422215
+  },
+  {
+    "index": 16,
+    "symbol": "H",
+    "iso_shielding": 19.86676990269363
+  },
+  {
+    "index": 17,
+    "symbol": "H",
+    "iso_shielding": 16.357895152928872
+  },
+  {
+    "index": 18,
+    "symbol": "H",
+    "iso_shielding": 12.564992474766512
+  },
+  {
+    "index": 19,
+    "symbol": "H",
+    "iso_shielding": 15.479085326742785
+  },
+  {
+    "index": 20,
+    "symbol": "H",
+    "iso_shielding": 10.649115275333271
+  },
+  {
+    "index": 21,
+    "symbol": "H",
+    "iso_shielding": 33.47393524100871
+  }
+]
