@@ -18,25 +18,24 @@ This repository demonstrates how to compute NMR shielding constants for a molecu
     Download and install Anaconda from the official site (link above).
 
 2. **Clone this repository**  
-    git clone https://github.com/YourUser/YourRepo.git  
-    cd YourRepo
+    git clone https://github.com/nstair/pyscf_nmr.git
+    cd pyscf_nmr
 
 3. **Create and activate the Conda environment**  
-    conda create -n pyscf_nmr_env python=3.9 pyscf numpy matplotlib -c conda-forge  
+    conda create -n pyscf_nmr_env python=3.9 numpy matplotlib -c conda-forge  
     conda activate pyscf_nmr_env
 
 4. **Install PySCF with the NMR properties add‑on**  
     pip install --upgrade pyscf pyscf-properties  
-    (Or: pip install --upgrade "pyscf[properties]")
 
 ## Usage
 
 1. **Compute NMR Shieldings**  
-    python run_pyscf_nmr.py  
-    Runs an RHF calculation and writes isotropic shieldings to `nmr_shieldings.json`.
+    python run_pyscf_nmr_<your_molecule>.py  
+    Runs an RHF calculation and writes isotropic shieldings to `nmr_shieldings_<your_molecule>.json`.
 
 2. **Simulate and Plot the NMR Spectrum**  
-    python simulate_nmr.py  
+    python plot_pyscf_nmr.py  
     Reads the JSON file, converts shieldings to chemical shifts, and displays the simulated 1H NMR spectrum.
 
 ## Notes
